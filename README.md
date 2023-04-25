@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Sadeghi
 ===================================================================================================================================
 
-Full-Stack JavaScript Developer
+JavaScript Developer
 -------------------------------
 
-a Full-Stack javascript developer (MEVN,MERN)with over 4 years experience and demonstrated talent and innovative approach in Web development in conformity with atomic design pattern and SOLID design principles. Highly interest in writing clean, intelligible and maintainable code.
+a javascript developer (MEVN,MERN)with over 4 years experience and demonstrated talent and innovative approach in Web development in conformity with atomic design pattern and SOLID design principles. Highly interest in writing clean, intelligible and maintainable code.
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [Alisadghi228@gmail.com](mailto:Alisadghi228@gmail.com )
