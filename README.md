@@ -106,8 +106,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=your-username&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisadeghi-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alisadeghi-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
 <br/>
@@ -124,7 +124,7 @@
 
 <p align="center">
   🌍 <b>Based in:</b> Tehran, Iran<br/>
-  ✉️ <b>Email:</b> <a href="mailto:Alisadghi228@gmail.com">Alisadghi228@gmail.com</a>
+  ✉️ <b>Email:</b> <a href="mailto:hello@alisadeghi.dev">hello@alisadeghi.dev</a>
 </p>
 
 <br/>
