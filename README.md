@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Senior%20AI%20Full-Stack%20Engineer&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Full-Stack%20Developer%20%7C%20AI%20Product%20Development&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </div>
 
 ---
@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 
   <p>
-    I'm a <b>Senior Full-Stack Engineer</b> with over <b>7 years</b> of professional experience, currently focusing on the intersection of <b>Web Development</b> and <b>Generative AI</b>.<br/>
-    I specialize in architecting <b>Autonomous Agents</b> and complex <b>Agentic Workflows</b> using LangChain and LangGraph.<br/>
-    My mission is to build intelligent, scalable systems that go beyond standard automation.
+    I'm a <b>Full-Stack Developer</b> with over <b>7 years</b> of professional experience, focused on building robust web applications and shifting toward <b>AI Product Development</b>.<br/>
+    I specialize in developing product features and <b>Agentic Workflows</b> using LangChain and LangGraph to integrate intelligent capabilities into production-ready software.<br/>
+    My focus is on creating clean, scalable code and delivering actual product value.
   </p>
 
 </div>
@@ -116,7 +116,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Building+Intelligent+Systems...+🤖;Let's+build+something+amazing+together!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Building+Intelligent+Products...+🤖;Let's+build+something+amazing+together!+🚀" />
 </div>
 
 <div align="center">
