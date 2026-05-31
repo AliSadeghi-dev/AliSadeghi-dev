@@ -77,21 +77,7 @@
 
 <br/>
 
----
 
-<div align="center">
-
-### 📊 GitHub Statistics
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisadeghi-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghi-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
