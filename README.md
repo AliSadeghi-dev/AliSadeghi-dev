@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
   <p>
-    I'm a <b>Full-Stack Developer</b> with over <b>7 years</b> of professional experience, focused on building robust web applications and shifting toward <b>AI Product Development</b>.<br/>
+    I'm a <b>Full-Stack Developer</b> with over <b>8 years</b> of professional experience, focused on building robust web applications and shifting toward <b>AI Product Development</b>.<br/>
     I specialize in developing product features and <b>Agentic Workflows</b> using LangChain and LangGraph to integrate intelligent capabilities into production-ready software.<br/>
     My focus is on creating clean, scalable code and delivering actual product value.
   </p>
